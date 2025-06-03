@@ -11,12 +11,50 @@
 
 ### 🧠 About Me:
 
-- 🔭 Currently working on: **Scalable E-commerce Backend Solutions**
-- 👨‍💻 Tech I'm using: **Node.js | MongoDB | PostgreSQL | NestJS | Docker | Kubernetes**
+- 🔭 Currently working on: **Scalable E-commerce and Logistics Backend Solutions**
+- 👨‍💻 Tech I'm using: **Node.js | NestJS | MongoDB | PostgreSQL | GraphQL | gRPC**
 - 🌱 Learning in Progress: **React.js | Microservices Architecture**
-- 👯 Open to collaborate on: **API Design, MongoDB Projects, or Full-stack Integrations**
-- 💬 Ask me about: **Backend Development, System Design, Databases**
-- 📄 [Check out my Resume](https://app.luminpdf.com/viewer/67ccc270fce8af9750448866)
+- 👯 Open to collaborate on: **API Design, MongoDB Projects, or Real-time Systems**
+- 💬 Ask me about: **Backend Engineering, System Design, Databases**
+- 📄 [View My Resume](https://app.luminpdf.com/viewer/67ccc270fce8af9750448866)
+
+---
+
+### 💼 Professional Experience
+
+**🚚 Software Engineer – Umbrella Protection Systems**  
+*Jun 2024 – Dec 2024 | Onsite*  
+- Developed a full-stack **Logistics Management System (LMS)** for DGFC.
+- Built REST APIs using **Node.js**, **Express.js**, and **MongoDB**.
+- Improved efficiency by **30%** with optimized MongoDB queries.
+- Automated workflows with task schedulers and led client communications.
+
+**🌍 Freelance Software Engineer**  
+*May 2023 – Feb 2024 | Remote*  
+- Built a responsive **E-commerce website** for a U.S.-based jewelry brand using **WordPress Elementor**.
+- Integrated **WooCommerce** and enhanced SEO + mobile responsiveness.
+
+**💡 Backend Engineer – Rapid Innovation**  
+*May 2022 – Mar 2023 | Remote*  
+- Engineered scalable backend services using **NestJS**, **GraphQL**, **gRPC**, and **MongoDB**.
+- Improved DB query performance by 30% via advanced indexing.
+- Integrated backend APIs with frontend for seamless experiences.
+
+---
+
+### 🔨 Key Projects
+
+**📦 DevTinder Clone (Ongoing)**  
+- A matchmaking app for developers to connect by **skills**, **interests**, and **projects**.  
+- Features: **Real-time chat**, **connection requests**, **blocking**, **admin panel**.
+
+**📈 Slabs – Real-Time Blockchain Data Platform**  
+- Designed distributed system to process real-time blockchain data.
+- Built GraphQL APIs using gRPC microservices and MongoDB.
+
+**🚛 Logistics Management System (DGFC)**  
+- Spearheaded the full backend for an enterprise-grade logistics system.
+- Achieved performance gains with MongoDB indexing + aggregation pipelines.
 
 ---
 
@@ -45,38 +83,16 @@
 
 ---
 
-### 💼 My Experience Highlights:
-
-- 🔧 **Backend Engineer Intern @ Rapidops Inc.**
-  - Designed and optimized APIs using Express and NestJS.
-  - Integrated MongoDB & PostgreSQL databases for scalable applications.
-
-- 🌐 **Freelance Backend Developer**
-  - Built RESTful APIs for multiple clients in E-commerce and Education.
-  - Used Docker and Kubernetes for deployment and orchestration.
-
-- 🛒 **E-commerce Backend Systems**
-  - Built secure, scalable product and user management modules.
-  - Used Node.js with MongoDB, JWT authentication, and Stripe payment integration.
-
-- 🧩 **Project Experience**
-  - **Blog API** with Node, Express, MongoDB.
-  - **Quiz App Backend** with NestJS and PostgreSQL.
-  - **Authentication Systems** using JWT, OAuth, and Passport.js.
-
----
-
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <!-- Showcase tools visually -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
